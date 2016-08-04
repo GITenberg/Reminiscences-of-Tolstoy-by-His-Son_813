@@ -1,0 +1,34 @@
+_repo: Reminiscences-of-Tolstoy-by-His-Son_813
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Calderon, George
+    birthdate: 1868
+    deathdate: 1915
+    gutenberg_agent_id: '6092'
+    url: http://www.gutenberg.org/2009/agents/6092
+creator:
+  author:
+    agent_name: Tolstoi, Ilia Lvovich, Graf
+    alias: Tolstoy, Ilya, Count
+    birthdate: 1866
+    deathdate: 1933
+    gutenberg_agent_id: '423'
+    url: http://www.gutenberg.org/2009/agents/423
+description: ''
+gutenberg_bookshelf: Biographies
+gutenberg_issued: '1997-02-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '813'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Tolstoy, Leo, graf, 1828-1910'
+- !lcsh 'Authors, Russian -- 19th century -- Biography'
+- !lcc 'PG'
+- GITenberg
+title: Reminiscences of Tolstoy, by His Son
+url: http://www.gutenberg.org/ebooks/813
